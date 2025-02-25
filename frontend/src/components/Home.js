@@ -8,9 +8,9 @@ const Home = () => {
   return (
     <div className="background-gradient h-screen flex  flex-col justify-center items-center text-center">
       <div className="home-container">
-        <h1 className="text-5xl font-bold text-pink-600 mb-4">AGI Photobooth</h1>
+        <h1 className="text-5xl font-bold text-pink-600 mb-4">AGIbooth</h1>
         <p className="text-lg text-gray-700 mb-6">
-          Welcome to AGI' photobooth! This is your personal photobooth at home.
+          Welcome to AGIbooth! This is your personal photobooth at home.
         </p>      
           
         <img src="/photobooth-strip.png" alt="photobooth strip" className="photobooth-strip"/>
